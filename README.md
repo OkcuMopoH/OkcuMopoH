@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OkcuMopoH
+- 👋 Hi, I’m @OkcuMopoH..
 - 👀 I’m interested in programming, but i have a basic knowledge
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small and simple projects
